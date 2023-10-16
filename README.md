@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently working on FullStack Spotify Clone
+A passionate full stack web developer ready to take new challenges and excited to 
+develop applications that solve our needs and actually serve community.
 
 
 ## 🌐 Socials:
